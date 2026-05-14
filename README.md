@@ -1,6 +1,6 @@
 # WISPR CSI Motion Tracker
 
-![System Design](System Design.png)
+![System Design](<System Design.png>)
 
 This repository contains the firmware and host software for a dual-node WiFi Channel State Information (CSI) motion tracking system. The system uses two ESP32 nodes to detect and visualize human presence and movement direction.
 
